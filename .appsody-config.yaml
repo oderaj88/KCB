@@ -1,0 +1,2 @@
+project-name: kcb
+stack: docker.io/kabanero/java-openliberty:0.2
